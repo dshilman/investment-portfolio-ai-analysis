@@ -1,7 +1,7 @@
 
 # Investment Portfolio Analysis (ChatGPT‑style)
 
-> GitHub repo: https://github.com/dshilman/investement-portfolio-ai-analysis  
+> GitHub repo: https://github.com/dshilman/investment-portfolio-ai-analysis  
 > Demo video: https://www.youtube.com/watch?v=-UDMbDFshYk
 
 A lightweight, ChatGPT‑like web application that provides **conversational insights about an investment portfolio**. It builds a local semantic index (via **LlamaIndex**) from live market news (Mboum Finance API) and other sources, then lets you ask natural‑language questions about your holdings—returns, risk, catalysts, diversification, and more. citeturn2search54turn2search40
